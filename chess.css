@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://wallpapers.com/images/featured/chess-background-na0c3ufv4kcfdcmk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#board{
+    border-style: solid;
+    margin: 300px;
+    
+}
+#black{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
+#white{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+}
+#title{
+    margin-top: 200px;
+    text-align: center;
+}
+p{
+    font-size: 60px;
+}

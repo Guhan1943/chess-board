@@ -1,0 +1,42 @@
+#gallery{
+    padding-top: 60px;
+    margin: 50px;
+    column-count: 3;
+    padding-left: 80px;
+    background-color: rgb(18, 28, 39);
+    
+}
+
+#pic{
+    padding-top: 100px;
+    margin-bottom: 60px;
+    height: 300px;
+    width: 300px;
+    padding: 10px;
+    border-style:ridge;
+    border-radius: 20px;
+    transition: 1s;
+ 
+} 
+#pic:hover{
+    
+    transform: translateX(10px);
+     transform: translateY(10px); 
+    
+   
+}
+p{
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: rgb(0, 0, 0);
+    transition: 0.3s;
+    
+}
+p:hover{
+    font-size: 60px;
+}
